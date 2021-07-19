@@ -5,3 +5,16 @@
 .movieRow h2 {
     margin: 0px 0px 0px 30px;
 }
+.movieRow--listarea {
+    overflow-x: hidden;
+}
+.movieRow--list {
+    width: 9999999px;
+}
+.movieRow--item {
+    display: inline-block;
+    width: 150px;
+}
+.movieRow--item img {
+    width: 100%;
+}
