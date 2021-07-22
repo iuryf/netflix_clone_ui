@@ -8,7 +8,11 @@ export default ({item}) => {
             backgroundPosition: 'center',
             backgroundImage: `url(https://image.tmdb.org/t/p/original${item.backdrope_path})`
         }}>
-            <div className="featured--vertical"></div>
+            <div className="featured--vertical">
+                <div className="featured--horizontal">
+
+                </div>
+            </div>
         </section>
     );
 }
