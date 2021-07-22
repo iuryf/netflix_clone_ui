@@ -17,11 +17,12 @@
     width: 150px;
     cursor: pointer;
 }
-.movieRow--item img {
+.movieRow--item img{
     width: 100%;
-    transform: scale(0,8);
+    transform: scale(0.8);
     transition: all ease 0.2s;
 }
-.movieRow--item img:hover {
+
+.movieRow--item img:hover{
     transform: scale(1);
-}
+ }
