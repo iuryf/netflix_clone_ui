@@ -1,7 +1,6 @@
 .featured{
     height: 100vh;
 }
-
 .featured--vertical{
     width: inherit;
     height: inherit;
@@ -28,6 +27,7 @@
     display: inline-block;
     margin-right: 15px;
 }
+
 .featured--points {
     color: #46d369;
 }
@@ -36,4 +36,9 @@
     margin-top: 15px;
     font-size: 20px;
     color: #999;
+    max-width: 40%;
+}
+
+.featured--botton {
+    
 }
