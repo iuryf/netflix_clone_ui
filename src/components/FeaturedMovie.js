@@ -10,7 +10,6 @@ export default ({item}) => {
     for(let i in item.genres) {
         genres.push( item.genres[i].name );
     }
-    
 
     return (
         <section className="featured" style ={{
@@ -32,7 +31,6 @@ export default ({item}) => {
                         <a href={`/list/add/${item.id}`} className="feactured--mylist">+ Minha Lista</a>
                     </div>
                     <div className="featured--genres"><strong>Gênero{(item.genres.length) <=1 ? '' : 's' }: </strong> {genres.join(', ')}</div>
-
                 </div>
             </div>
         </section>
