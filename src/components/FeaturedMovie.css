@@ -12,9 +12,9 @@
     height: inherit;
     background: linear-gradient(to right, #111 20%, transparent 70%);
     display: flex;
+    padding-left: 30px;
     flex-direction: column;
     justify-content: center;
-    padding-left: 30px;
 }
 .featured--name {
     font-size: 60px;
