@@ -14,7 +14,7 @@
 }
 .movieRow--item {
     display: inline-block;
-    width: 200px;
+    width: 180px;
     cursor: pointer;
 }
 .movieRow--item img{
