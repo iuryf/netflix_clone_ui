@@ -4,6 +4,7 @@ import Tmdb from './Tmdb';
 import MovieRow from './components/MovieRow';
 import FeaturedMovie from './components/FeaturedMovie';
 import Header from './components/Header';
+import LinkIcon from '@material-ui/icons/Link';
 
 export default () => {
 
@@ -61,10 +62,9 @@ export default () => {
 
         <footer>
           Feito com <span role="img">❤️</span> por Iury Farias<br/>
-          Fonte de dados: themoviedb.org <br/>
-          Direitos de imagem: Netflix
+          Fonte de dados <a target="_blank" href="https://www.themoviedb.org">TMDb</a><br/>
+          Direitos de imagem <a target="_blank" href="https://www.netflix.com"> Netflix, Inc.</a>
         </footer>
-
       </div>
     );
   }
