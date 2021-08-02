@@ -14,7 +14,7 @@
 }
 .movieRow--item {
     display: inline-block;
-    width: 180px;
+    width: 150px;
     cursor: pointer;
 }
 .movieRow--item img{
@@ -25,4 +25,24 @@
 
 .movieRow--item img:hover{
     transform: scale(1);
+ }
+
+ .movieRow--left,
+ .movieRow--right {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     position: absolute;
+     width: 40px;
+     height: 225px;
+     background-color: red;
+     z-index: 99;
+ }
+
+ .movieRow--left {
+    left: 0;
+ }
+
+ .movieRow--right {
+    right: 0;
  }
