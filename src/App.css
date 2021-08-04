@@ -23,3 +23,17 @@ a  {
 a:hover {
     color:#999;
 }
+
+.loading {
+    position: fixed;
+    z-index: 99;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
