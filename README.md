@@ -1,8 +1,7 @@
+![Alt Text](https://github.com/iuryf/netflix_clone_ui/blob/master/gif.gif)
+
 data from https://api.themoviedb.org/3
 
-<iframe src="//gifs.com/embed/netflix-clone-ui-Dqq545"</iframe>
-
-(https://gifs.com/gif/netflix-clone-ui-Dqq545)
 
 # Getting Started with Create React App
 
