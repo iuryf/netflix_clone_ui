@@ -1,5 +1,7 @@
 data from https://api.themoviedb.org/3
 
+https://gifs.com/gif/netflix-clone-ui-Dqq545
+
 
 # Getting Started with Create React App
 
