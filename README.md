@@ -1,9 +1,8 @@
 data from https://api.themoviedb.org/3
 
-<iframe src="https://j.gifs.com/Dqq545.gif"/>
+<iframe src="//gifs.com/embed/netflix-clone-ui-Dqq545"</iframe>
 
-<div style="position:relative;padding-bottom:56.232%;">
-  <iframe src="//gifs.com/embed/netflix-clone-ui-Dqq545" frameborder="0" scrolling="no" width="690" height="388" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
+<div style="position:relative;padding-bottom:56.232%;" </iframe>
 
 # Getting Started with Create React App
 
