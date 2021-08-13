@@ -2,7 +2,7 @@ data from https://api.themoviedb.org/3
 
 <iframe src="//gifs.com/embed/netflix-clone-ui-Dqq545"</iframe>
 
-![Alt text](https://gifs.com/gif/netflix-clone-ui-Dqq545)
+(https://gifs.com/gif/netflix-clone-ui-Dqq545)
 
 # Getting Started with Create React App
 
